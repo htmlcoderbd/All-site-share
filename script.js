@@ -11,7 +11,7 @@ function checkPassword() {
   const userInput = passwordInput.value;
 
   const passwords = {
-    "5$yv!O{c4NP]v[ePNGn8": "https://www.399bet11.com/?r=gob5502",
+    "7XQA14OM7T": "https://www.399bet11.com/?r=gob5502",
     "654321": "https://www.google.com",
     "000000": "https://m.youtube.com",
     "707070": "https://m.facebook.com"
