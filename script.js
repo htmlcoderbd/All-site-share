@@ -19,6 +19,6 @@ function checkPassword() {
   if (passwords[userInput]) {
     window.location.href = passwords[userInput];
   } else {
-    document.getElementById("message").innerText = "🚫 Incorrect Password!";
+    document.getElementById("message").innerText = "🚫 ভুল পাসওয়ার্ড! আমার থেকে নেওয়া পাসওয়ার্ড এর সাথে মিলিয়ে দেখুন!";
   }
 }
